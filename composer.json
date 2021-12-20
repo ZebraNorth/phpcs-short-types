@@ -9,5 +9,7 @@
             "email": "mrzebra@mrzebra.co.uk"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
