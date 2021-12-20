@@ -55,7 +55,7 @@ Errors Fixed
 Installation
 ------------
 
-1. Install into composer with: `composer require-dev zebra-north/phpcs-short-types`
+1. Install into composer with: `composer require --dev zebra-north/phpcs-short-types`
 2. Edit your project's `phpcs.xml` to add a bootstrap file:
 
 ```xml
